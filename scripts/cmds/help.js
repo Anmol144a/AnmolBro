@@ -62,7 +62,7 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n\n💡 The bot currently has ${totalCommands} commands available.`;
       msg += `\nType .help [command]' to get details on a specific command.`;
-      msg += `\n🛠 Created by: 🐐 | ITACHI SENSEI 👾🪽`; // Personal signature
+      msg += `\n🛠 Created by: 🐐 | ANMOL 👾🪽`; // Personal signature
 
       const helpListImages = [
         "https://i.ibb.co/dWL159T/image.jpg"
